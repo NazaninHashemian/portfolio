@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Genre API",
+      "imageSrc": "projects/project.png",
+      "description": "Built a RESTful API for managing movie genres, implementing CRUD operations and data validation.",
+      "skills": ["Node.js", "Express", "Joi"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Video Game",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive web app for video game browsing, optimizing performance and user experience.",
+      "skills": ["React", "Axios", "TypeScript", "ChakraUI", "Vercel", "Zustand"],
+      "demo": "https://game-bhaax6w5m-nazaninhashemian.vercel.app",
+      "source": "https://game-bhaax6w5m-nazaninhashemian.vercel.app"
+    },
+    {
+      "title": "Expenses List",
+      "imageSrc": "projects/project.png",
+      "description": "Implemented a form for adding new expenses with validation, ensuring data integrity with the Zod library.",
+      "skills": ["React", "JavaScript", "BootStrap", "Zod"],
+      "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
+      "source": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app"
+    },
+    {
+      "title": "HTTP app",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an HTTP app for managing posts with CRUD functionality, utilizing React components, JSX, and CSS for the user interface.",
+      "skills": ["React", "JSX", "JS", "axios", "CSS", "BootStrap"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Counter-app",
+      "imageSrc": "projects/project.png",
+      "description": "Created an e-commerce app with a shopping cart and product counter, implementing state sharing between Navbar and shopping cart components.",
+      "skills": ["React", "JSX", "JS", "CSS", "Bootstrap"],
+      "demo": "https://nazaninhashemian.github.io/counter-app",
+      "source": "https://nazaninhashemian.github.io/counter-app"
+    },
+    {
+      "title": "Vidly app",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a movies component with CRUD functionality, implementing sorting, searching, and type checking.",
+      "skills": ["React", "JSX", "JS", "Bootstrap"],
+      "demo": "https://nazaninhashemian.github.io/vidly",
+      "source": "https://nazaninhashemian.github.io/vidly"
+    },
+    {
+      "title": "Nazify website",
+      "imageSrc": "projects/project.png",
+      "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
+      "skills": ["HTML", "CSS", "Photoshop"],
+      "demo": "",
+      "source": ""
+    }
+  ]
+  

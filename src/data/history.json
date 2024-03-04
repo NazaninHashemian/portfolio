@@ -1,0 +1,45 @@
+[
+  {
+    "role": "Web Developer Instructor",
+    "organization": "CIRA College",
+    "startDate": "Sep 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Conducted code reviews, provided feedback",
+      "Enhanced engagement through dynamic lectures"
+    ],
+    "imageSrc": "history/cira.png"
+  },
+  {
+    "role": "Freelance Web Developer",
+    "organization": "",
+    "startDate": "Oct 2020",
+    "endDate": "Present",
+    "experiences": [
+      "Developed responsive web apps using React & TypeScript", 
+      "Enhanced engagement through dynamic lectures", 
+      "Conducted comprehensive testing, provided initial data"       
+    ],
+    "imageSrc": "history/free.png"
+  },
+  {
+    "role": "Career Break for Maternity Leave",
+    "organization": "",
+    "startDate": "Feb 2018",
+    "endDate": "Sep 2020",
+    "experiences": [],
+    "imageSrc": "history/pregnancy.png"
+  },
+  {
+    "role": "Web Developer/Software Programmer",
+    "organization": "HaTeb",
+    "startDate": "Jun 2009",
+    "endDate": "Dec 2016",
+    "experiences": [
+      "Increased maintainability through streamlined code",
+      "Collaborated in an agile project environment"
+    ],
+    "imageSrc": "history/Hateb.png"
+  }
+  
+]
