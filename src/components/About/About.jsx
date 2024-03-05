@@ -21,10 +21,10 @@ const About = () => {
                         alt="cursor Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Specialization and Expertise:</h3>
                         <p>
-                            I am a frontend developer with experience in building responsive
-                            and optimized sites.
+                            I'm a seasoned freelance web developer 
+                            specializing in React and advanced data caching with React Query.
                         </p>
                     </div>
                 </li>
@@ -34,11 +34,12 @@ const About = () => {
                         alt="server Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Freelance Web Developer</h3>
+                        <h3>Experience and Strengths:</h3>
                         <p>
-                            I excel in optimizing web applications for efficiency 
-                            and performance, consistently exceeding client 
-                            expectations with high-quality solutions.
+                            Proficient in coding tests, I specialize in crafting 
+                            visually captivating websites with clean code and 
+                            user-friendly interfaces. Additionally, I possess 
+                            knowledge of Node.js and PHP to support my work.
                         </p>
                     </div>
                 </li>
@@ -48,11 +49,10 @@ const About = () => {
                         alt="UI Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Web Development Instructor</h3>
+                        <h3>Commitment and Collaboration:</h3>
                         <p>
-                            I guide students through frontend development, 
-                            conducting code reviews and 
-                            introducing JavaScript and React.js.
+                            Adept at staying current with industry trends 
+                            and collaborating effectively in teams. 
                         </p>
                     </div>
                 </li>

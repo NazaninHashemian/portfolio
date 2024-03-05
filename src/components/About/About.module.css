@@ -62,6 +62,7 @@
     font-size: 25px;
     font-weight: 600;
 }
+
 .aboutItem p {
     font-size: 20px;
 }
@@ -87,5 +88,19 @@
     .aboutItem {
         padding-left: 0;
         padding-right: 0;
+    }
+}
+
+@media screen and (max-width:500px){
+    .container {
+        margin-left: 5%;
+        margin-right: 5%;    
+    }
+    .aboutItem h3 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .aboutItem p {
+        font-size: 17px;
     }
 }

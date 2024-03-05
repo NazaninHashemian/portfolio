@@ -7,11 +7,17 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Nazanin</h1>
-            <p className={styles.description}>
+            {/* <p className={styles.description}>
                 I'm a frontend developer with 5 years of experience 
                 using React, with additional experience in Node.js 
                 and PHP. Feel free to reach out if you'd like to 
                 learn more.
+            </p> */}
+            <p className={styles.description}>
+                I'm an experienced freelance web developer specializing in React. 
+                With a talent for clean code and intuitive interfaces, I thrive 
+                in collaborative team environments. Let's discuss how I can 
+                contribute to your team. 
             </p>
             <a href="mailto:na.hashemian@gmail.com" className={styles.contactBtn}>
                 Contact Me

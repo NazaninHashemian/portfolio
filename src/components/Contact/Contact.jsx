@@ -1,6 +1,6 @@
-import React from 'react'
-import { getImageurl } from '../../utils'
-import styles from './Contact.module.css'
+import React from 'react';
+import { getImageurl } from '../../utils';
+import styles from './Contact.module.css';
 
 const Contact = () => {
   return (
@@ -42,4 +42,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Contact;
