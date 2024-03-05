@@ -1,0 +1,24 @@
+    {
+      "title": "HTTP app",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an HTTP app for managing posts with CRUD functionality, utilizing React components, JSX, and CSS for the user interface.",
+      "skills": ["React", "JSX", "JS", "axios", "CSS", "BootStrap"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Genre API",
+      "imageSrc": "projects/project.png",
+      "description": "Built a RESTful API for managing movie genres, implementing CRUD operations and data validation.",
+      "skills": ["Node.js", "Express", "Joi"],
+      "demo": "",
+      "source": ""
+    },
+        {
+      "title": "Nazify website",
+      "imageSrc": "projects/project.png",
+      "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
+      "skills": ["HTML", "CSS", "Photoshop"],
+      "demo": "",
+      "source": ""
+    }
