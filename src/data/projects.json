@@ -32,7 +32,15 @@
       "skills": ["React", "JSX", "JS", "Bootstrap"],
       "demo": "https://nazaninhashemian.github.io/vidly",
       "source": "https://nazaninhashemian.github.io/vidly"
-    }
+    },
+    {
+  "title": "Sky Hosting website",
+  "imageSrc": "projects/project.png",
+  "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
+  "skills": ["OOCSS", "Photoshop", "Animate on scroll library"],
+  "demo": "",
+  "source": "https://sky-host.netlify.app"
+}
 
 ]
 
