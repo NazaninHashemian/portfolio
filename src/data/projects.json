@@ -2,7 +2,7 @@
 
     {
       "title": "Video Game",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/video-game.png",
       "description": "Developed a responsive web app for video game browsing, optimizing performance and user experience.",
       "skills": ["React", "Axios", "TypeScript", "ChakraUI", "Vercel", "Zustand"],
       "demo": "https://game-bhaax6w5m-nazaninhashemian.vercel.app",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Expenses List",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/expenses-list.png",
       "description": "Implemented a form for adding new expenses with validation, ensuring data integrity with the Zod library.",
       "skills": ["React", "JavaScript", "BootStrap", "Zod"],
       "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
@@ -19,7 +19,7 @@
 
     {
       "title": "Counter-app",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/counter.jpg",
       "description": "Created an e-commerce app with a shopping cart and product counter, implementing state sharing between Navbar and shopping cart components.",
       "skills": ["React", "JSX", "JS", "CSS", "Bootstrap"],
       "demo": "https://nazaninhashemian.github.io/counter-app",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Vidly app",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/vidly.jpg",
       "description": "Developed a movies component with CRUD functionality, implementing sorting, searching, and type checking.",
       "skills": ["React", "JSX", "JS", "Bootstrap"],
       "demo": "https://nazaninhashemian.github.io/vidly",
@@ -35,7 +35,7 @@
     },
     {
   "title": "Sky Hosting website",
-  "imageSrc": "projects/project.png",
+  "imageSrc": "projects/sky.jpg",
   "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
   "skills": ["OOCSS", "Photoshop", "Animate on scroll library"],
   "demo": "",
