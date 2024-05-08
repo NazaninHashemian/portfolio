@@ -20,7 +20,7 @@
     {
       "title": "Counter-app",
       "imageSrc": "projects/counter.jpg",
-      "description": "Created an e-commerce app with a shopping cart and product counter, implementing state sharing between Navbar and shopping cart components to build a complex user interface..",
+      "description": "Created an e-commerce app with a shopping cart and product counter, implementing state sharing between Navbar and shopping cart components to build a complex user interface.",
       "skills": ["React", "JSX", "JS", "CSS", "Bootstrap"],
       "demo": "https://nazaninhashemian.github.io/counter-app",
       "source": "https://nazaninhashemian.github.io/counter-app"
