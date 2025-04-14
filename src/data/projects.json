@@ -1,7 +1,7 @@
 [
   {
     "title": "Recipe Finder App",
-    "imageSrc": "projects/recipe-finder.png",
+    "imageSrc": "projects/Recipe1.png",
     "description": "Built a recipe search app using TheMealDB API. Enabled searches by name, ingredient, or cuisine. Implemented modals, React Router, and Dark/Light mode for enhanced UX. Boosted development speed by 30% using a reusable SearchBar component.",
     "skills": ["React", "JavaScript", "React Router", "Hooks", "Responsive Design"],
     "demo": "",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Weather App",
-    "imageSrc": "projects/weather-app.png",
+    "imageSrc": "projects/weather-App.png",
     "description": "Developed a real-time weather app with location auto-detection and dynamic UI updates. Used Axios for API calls and optimized performance by managing state to minimize redundant fetches.",
     "skills": ["React", "Axios", "JavaScript", "Responsive Design", "Geolocation API"],
     "demo": "",
