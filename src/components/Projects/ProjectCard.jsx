@@ -1,11 +1,9 @@
-import React from 'react';
-
+import PropTypes from 'prop-types';
 import styles from './ProjectCard.module.css';
 import { getImageurl } from './../../utils';
 
 
-
-const ProjectCard = ({project: {imageSrc, title, description, skills, demo, source}
+const ProjectCard = ({project: {imageSrc, title, description, skills, source}
 }) => {
   return (
     <div className={styles.container}>
@@ -34,5 +32,16 @@ const ProjectCard = ({project: {imageSrc, title, description, skills, demo, sour
 </div>
   )
 }
+
+ProjectCard.propTypes = {
+    project: PropTypes.shape({
+      imageSrc: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
+      description: PropTypes.string.isRequired,
+      skills: PropTypes.arrayOf(PropTypes.string).isRequired,
+      demo: PropTypes.string,
+      source: PropTypes.string.isRequired,
+    }).isRequired,
+  };
 
 export default ProjectCard;
