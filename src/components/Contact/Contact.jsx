@@ -35,6 +35,12 @@ const Contact = () => {
                         github.com/NazaninHashemian
                     </a>
                 </li>
+                <li className={styles.link}>
+                    <a href="/NazaninHashemian_CV.pdf" download target="_blank" rel="noopener noreferrer">
+                        Download My Resume
+                    </a>
+                </li>
+
             </ul>
         </div>
     </footer>

@@ -68,6 +68,14 @@
     font-size: 20px;
 }
 
+.aboutLink a {
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+    padding:5px 15px;
+    background: rgba(68, 97, 201, 0.5);
+}
+
 @media screen and (max-width: 830px){
     .container {
         background-color: transparent;
