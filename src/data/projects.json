@@ -20,8 +20,8 @@
     "imageSrc": "projects/video-game.png",
     "description": "Created a game discovery platform with filtering by genre and platform. Used Zustand for state management and optimized rendering by minimizing API calls. Featured video previews, ratings, and descriptions.",
     "skills": ["React", "TypeScript", "Axios", "ChakraUI", "Zustand", "Vercel"],
-    "demo": "https://game-bhaax6w5m-nazaninhashemian.vercel.app",
-    "source": "https://github.com/NazaninHashemian/video-game-browser"
+    "demo": "",
+    "source": "https://game-bhaax6w5m-nazaninhashemian.vercel.app"
   },
   {
     "title": "Expenses Tracker",
@@ -36,8 +36,8 @@
     "imageSrc": "projects/vidly.jpg",
     "description": "Developed a movie rental platform with filtering by genre and rating. Used React hooks for efficient state management and Bootstrap for mobile-friendly layouts.",
     "skills": ["React", "JavaScript", "Bootstrap", "Hooks"],
-    "demo": "https://nazaninhashemian.github.io/vidly",
-    "source": "https://github.com/NazaninHashemian/vidly"
+    "demo": "https://nazaninhashemian.github.io/vidly/",
+    "source": "https://nazaninhashemian.github.io/vidly/"
   },
   {
     "title": "SkyHosting Website",
@@ -45,6 +45,6 @@
     "description": "Designed a mobile-first, responsive website for a hosting company using OOCSS, SCSS, and AOS animations. Translated a Photoshop design into a sleek, professional online presence.",
     "skills": ["HTML", "CSS", "SCSS", "Photoshop", "OOCSS", "AOS Library"],
     "demo": "https://sky-host.netlify.app",
-    "source": "https://github.com/NazaninHashemian/sky-hosting"
+    "source": "https://sky-host.netlify.app"
   }
 ]
