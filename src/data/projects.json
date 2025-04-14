@@ -29,7 +29,7 @@
     "description": "Built an expense tracker with features for adding, editing, and deleting entries. Integrated Zod for robust validation and used React with Bootstrap for responsive UI and better UX.",
     "skills": ["React", "Bootstrap", "JavaScript", "Zod"],
     "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
-    "source": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app"
+    "source": "https://expense-tracker-smoky-rho.vercel.app"
   },
   {
     "title": "Vidly Movie Rental App",
