@@ -13,7 +13,7 @@
     "description": "Developed a real-time weather app with location auto-detection and dynamic UI updates. Used Axios for API calls and optimized performance by managing state to minimize redundant fetches.",
     "skills": ["React", "Axios", "JavaScript", "Responsive Design", "Geolocation API"],
     "demo": "",
-    "source": "https://nazaninhashemian.github.io/weather-app"
+    "source": "https://nazaninhashemian.github.io/weatherApp"
   },
   {
     "title": "Video Game Explorer",
