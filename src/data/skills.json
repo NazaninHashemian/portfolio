@@ -2,11 +2,11 @@
  
       {
         "title": "React",
-        "imageSrc": "skills/TS.png"
+        "imageSrc": "skills/react.png"
       },
       {
         "title": "TypeScript",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "skills/TS.png"
       },
       {
         "title": "Node",
