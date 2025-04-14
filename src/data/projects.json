@@ -9,7 +9,7 @@
   },
   {
     "title": "Weather App",
-    "imageSrc": "projects/weather-App.png",
+    "imageSrc": "projects/weatherApp.png",
     "description": "Developed a real-time weather app with location auto-detection and dynamic UI updates. Used Axios for API calls and optimized performance by managing state to minimize redundant fetches.",
     "skills": ["React", "Axios", "JavaScript", "Responsive Design", "Geolocation API"],
     "demo": "",
