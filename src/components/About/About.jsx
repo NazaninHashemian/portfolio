@@ -1,5 +1,3 @@
-import React from 'react';
-
 import styles from './About.module.css'
 import { getImageurl } from '../../utils';
 
@@ -23,8 +21,8 @@ const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Specialization and Expertise:</h3>
                         <p>
-                            I'm a seasoned freelance web developer 
-                            specializing in React and advanced data caching with React Query.
+                            {`I'm a seasoned freelance web developer 
+                            specializing in React and advanced data caching with React Query.`}
                         </p>
                     </div>
                 </li>

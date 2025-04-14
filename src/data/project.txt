@@ -1,24 +1,58 @@
-    {
-      "title": "HTTP app",
-      "imageSrc": "projects/project.png",
-      "description": "Developed an HTTP app for managing posts with CRUD functionality, utilizing React components, JSX, and CSS for the user interface.",
-      "skills": ["React", "JSX", "JS", "axios", "CSS", "BootStrap"],
-      "demo": "",
-      "source": ""
-    },
-    {
-      "title": "Genre API",
-      "imageSrc": "projects/project.png",
-      "description": "Built a RESTful API for managing movie genres, implementing CRUD operations and data validation.",
-      "skills": ["Node.js", "Express", "Joi"],
-      "demo": "",
-      "source": ""
-    },
-        {
-      "title": "Nazify website",
-      "imageSrc": "projects/project.png",
-      "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
-      "skills": ["HTML", "CSS", "Photoshop"],
-      "demo": "",
-      "source": ""
-    }
+[
+  {
+    "title": "Recipe Finder App",
+    "imageSrc": "projects/recipe-finder.png",
+    "description": "Built a recipe search app using TheMealDB API, enabling users to search by name, ingredient, or cuisine. Used React Hooks and React Router for state and navigation, implemented modals and Dark/Light Mode for enhanced UX, and created a reusable SearchBar component to save development time.",
+    "skills": ["React", "Hooks", "React Router", "JSX", "CSS", "API", "Dark Mode"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather-app.png",
+    "description": "Developed a real-time weather app using Axios and React. Featured auto-location detection and a mobile-friendly layout. State management was optimized to prevent redundant data fetches and provide a smooth user experience.",
+    "skills": ["React", "Axios", "JS", "CSS", "API", "Mobile-First"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Video Game Explorer",
+    "imageSrc": "projects/game-explorer.png",
+    "description": "Created an interactive platform to explore video games by genre and platform. Used Zustand for global state, integrated game data via API calls, and enhanced UI with detailed game descriptions, ratings, and video previews.",
+    "skills": ["React", "Zustand", "JS", "CSS", "API"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Expenses Tracker",
+    "imageSrc": "projects/expenses-tracker.png",
+    "description": "Built a responsive expenses tracking app with features to add, edit, and delete entries. Used Zod for form validation and React + Bootstrap for optimized performance and improved UX.",
+    "skills": ["React", "Zod", "JS", "Bootstrap", "Form Validation"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Vidly Movie Rental App",
+    "imageSrc": "projects/vidly-app.png",
+    "description": "Developed a dynamic movie rental app using React. Implemented features to search, filter, and rent movies based on genre and rating. Applied hooks and Bootstrap for smooth and responsive user experience.",
+    "skills": ["React", "Hooks", "JS", "Bootstrap", "UI/UX"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "SkyHosting Website",
+    "imageSrc": "projects/skyhosting.png",
+    "description": "Designed and developed a cloud hosting website from a Photoshop mockup using HTML, SCSS, and OOCSS. Integrated AOS animations and ensured full responsiveness across all screen sizes.",
+    "skills": ["HTML", "SCSS", "OOCSS", "Photoshop", "AOS"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Genre API",
+    "imageSrc": "projects/genre-api.png",
+    "description": "Built a RESTful API with Express for managing movie genres. Included full CRUD functionality and used Joi for schema validation and data integrity.",
+    "skills": ["Node.js", "Express", "Joi", "REST API"],
+    "demo": "",
+    "source": ""
+  }
+]

@@ -1,47 +1,50 @@
 [
-
-    {
-      "title": "Video Game",
-      "imageSrc": "projects/video-game.png",
-      "description": "Developed a responsive web app for video game browsing, optimizing performance and user experience.",
-      "skills": ["React", "Axios", "TypeScript", "ChakraUI", "Vercel", "Zustand"],
-      "demo": "https://game-bhaax6w5m-nazaninhashemian.vercel.app",
-      "source": "https://game-bhaax6w5m-nazaninhashemian.vercel.app"
-    },
-    {
-      "title": "Expenses List",
-      "imageSrc": "projects/expenses-list.png",
-      "description": "Implemented a form for adding new expenses with validation, ensuring data integrity with the Zod library.",
-      "skills": ["React", "JavaScript", "BootStrap", "Zod"],
-      "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
-      "source": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app"
-    },
-
-    {
-      "title": "Counter-app",
-      "imageSrc": "projects/counter.jpg",
-      "description": "Created an e-commerce app with a shopping cart and product counter, implementing state sharing between Navbar and shopping cart components to build a complex user interface.",
-      "skills": ["React", "JSX", "JS", "CSS", "Bootstrap"],
-      "demo": "https://nazaninhashemian.github.io/counter",
-      "source": "https://nazaninhashemian.github.io/counter"
-    },
-    {
-      "title": "Vidly app",
-      "imageSrc": "projects/vidly.jpg",
-      "description": "Developed a movies component with CRUD functionality, implementing sorting, searching, and type checking.",
-      "skills": ["React", "JSX", "JS", "Bootstrap"],
-      "demo": "https://nazaninhashemian.github.io/vidly",
-      "source": "https://nazaninhashemian.github.io/vidly"
-    },
-    {
-  "title": "Sky Hosting website",
-  "imageSrc": "projects/sky.jpg",
-  "description": "Employed modular CSS principles to create reusable components and build a complex layout. Converted a Photoshop design into a fast, responsive, and visually appealing website for a cloud hosting company.",
-  "skills": ["OOCSS", "Photoshop", "Animate on scroll library"],
-  "demo": "",
-  "source": "https://sky-host.netlify.app"
-}
-
+  {
+    "title": "Recipe Finder App",
+    "imageSrc": "projects/recipe-finder.png",
+    "description": "Built a recipe search app using TheMealDB API. Enabled searches by name, ingredient, or cuisine. Implemented modals, React Router, and Dark/Light mode for enhanced UX. Boosted development speed by 30% using a reusable SearchBar component.",
+    "skills": ["React", "JavaScript", "React Router", "Hooks", "Responsive Design"],
+    "demo": "",
+    "source": "https://nazaninhashemian.github.io/RecipeFinderApp"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather-app.png",
+    "description": "Developed a real-time weather app with location auto-detection and dynamic UI updates. Used Axios for API calls and optimized performance by managing state to minimize redundant fetches.",
+    "skills": ["React", "Axios", "JavaScript", "Responsive Design", "Geolocation API"],
+    "demo": "",
+    "source": "https://nazaninhashemian.github.io/weather-app"
+  },
+  {
+    "title": "Video Game Explorer",
+    "imageSrc": "projects/video-game.png",
+    "description": "Created a game discovery platform with filtering by genre and platform. Used Zustand for state management and optimized rendering by minimizing API calls. Featured video previews, ratings, and descriptions.",
+    "skills": ["React", "TypeScript", "Axios", "ChakraUI", "Zustand", "Vercel"],
+    "demo": "https://game-bhaax6w5m-nazaninhashemian.vercel.app",
+    "source": "https://github.com/NazaninHashemian/video-game-browser"
+  },
+  {
+    "title": "Expenses Tracker",
+    "imageSrc": "projects/expenses-list.png",
+    "description": "Built an expense tracker with features for adding, editing, and deleting entries. Integrated Zod for robust validation and used React with Bootstrap for responsive UI and better UX.",
+    "skills": ["React", "Bootstrap", "JavaScript", "Zod"],
+    "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
+    "source": "https://github.com/NazaninHashemian/expense-tracker"
+  },
+  {
+    "title": "Vidly Movie Rental App",
+    "imageSrc": "projects/vidly.jpg",
+    "description": "Developed a movie rental platform with filtering by genre and rating. Used React hooks for efficient state management and Bootstrap for mobile-friendly layouts.",
+    "skills": ["React", "JavaScript", "Bootstrap", "Hooks"],
+    "demo": "https://nazaninhashemian.github.io/vidly",
+    "source": "https://github.com/NazaninHashemian/vidly"
+  },
+  {
+    "title": "SkyHosting Website",
+    "imageSrc": "projects/sky.jpg",
+    "description": "Designed a mobile-first, responsive website for a hosting company using OOCSS, SCSS, and AOS animations. Translated a Photoshop design into a sleek, professional online presence.",
+    "skills": ["HTML", "CSS", "SCSS", "Photoshop", "OOCSS", "AOS Library"],
+    "demo": "https://sky-host.netlify.app",
+    "source": "https://github.com/NazaninHashemian/sky-hosting"
+  }
 ]
-
-  

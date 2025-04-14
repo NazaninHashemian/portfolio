@@ -1,4 +1,3 @@
-import React from 'react';
 import { getImageurl } from '../../utils';
 import styles from './Contact.module.css';
 

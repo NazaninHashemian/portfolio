@@ -1,45 +1,40 @@
 [
+
   {
-    "role": "Web Developer Instructor",
-    "organization": "CIRA College",
-    "startDate": "Sep 2021",
-    "endDate": "Present",
-    "experiences": [
-      "Conducted code reviews, provided feedback",
-      "Enhanced engagement through dynamic lectures"
-    ],
-    "imageSrc": "history/cira.png"
-  },
-  {
-    "role": "Freelance Web Developer",
+    "role": "Freelance React Developer",
     "organization": "",
-    "startDate": "Oct 2020",
+    "startDate": "Dec 2022",
     "endDate": "Present",
     "experiences": [
-      "Developed responsive web apps using React & TypeScript", 
-      "Enhanced engagement through dynamic lectures", 
-      "Conducted comprehensive testing, provided initial data"       
+      "Built scalable and mobile-friendly apps using React and modern JavaScript",
+      "Optimized UI performance and created reusable components",
+      "Integrated third-party APIs and enhanced UX with Dark Mode and modals"
     ],
     "imageSrc": "history/free.png"
   },
   {
-    "role": "Career Break for Maternity Leave",
-    "organization": "",
-    "startDate": "Feb 2018",
-    "endDate": "Sep 2020",
-    "experiences": [],
-    "imageSrc": "history/pregnancy.png"
+    "role": "Developer (Volunteer, HGN Open-Source App)",
+    "organization": "One Community Global",
+    "startDate": "Nov 2024",
+    "endDate": "Apr 2025",
+    "experiences": [
+      "Enhanced task management features using React and Redux",
+      "Implemented conditional rendering for access-based navigation",
+      "Used useSelector to track users and update task statuses in real-time"
+    ],
+    "imageSrc": "history/opensource.png"
   },
   {
-    "role": "Web Developer/Software Programmer",
-    "organization": "HaTeb",
-    "startDate": "Jun 2009",
-    "endDate": "Dec 2016",
+    "role": "Web Development Instructor",
+    "organization": "Canada International Royal Art College",
+    "startDate": "Sep 2021",
+    "endDate": "Mar 2025",
     "experiences": [
-      "Increased maintainability through streamlined code",
-      "Collaborated in an agile project environment"
+      "Delivered interactive workshops and mentorship in JavaScript and React.js",
+      "Taught component-based architecture, state management, and performance optimization",
+      "Guided students through real-world projects using Git and React Hooks"
     ],
-    "imageSrc": "history/Hateb.png"
+    "imageSrc": "history/cira.png"
   }
-  
+ 
 ]
