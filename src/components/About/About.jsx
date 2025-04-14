@@ -54,11 +54,11 @@ const About = () => {
                         </p>
                     </div>
                 </li>
-                <li className={styles.aboutLink}>
+                {/* <li className={styles.aboutLink}>
                     <a href="/NazaninHashemian_CV.pdf" download target="_blank" rel="noopener noreferrer">
                         Download My Resume
                     </a>
-                </li>
+                </li> */}
             </ul>
         </div>
     </section>
