@@ -104,10 +104,12 @@
   }
   
 
-@media screen and (max-width:830px){
+@media screen and (max-width:850px){
+    .title {
+        font-size: 38px;
+    }
     .container {
-        flex-direction: column-reverse;
-        
+        flex-direction: column-reverse;      
     }
     .content {
         align-items: center;
@@ -115,10 +117,8 @@
 }
 
 @media screen and (max-width:580px){
-    
     .title {
-        font-size: 50px;
-        font-weight: 800;
+        font-size: 35px;
     }
     .description {
         font-size: 19px;
@@ -131,9 +131,8 @@
 
 
 @media screen and (max-width:450px){
-    
     .title {
-        font-size: 38px;
+        font-size: 30px;
     }
     .description {
         font-size: 17px;
