@@ -19,10 +19,10 @@ const About = () => {
                         alt="cursor Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Specialization and Expertise:</h3>
+                        <h3>Front-End Focused</h3>
                         <p>
-                            {`I'm a seasoned freelance web developer 
-                            specializing in React and advanced data caching with React Query.`}
+                            {`Passionate Front-End Developer with hands-on experience in building responsive and accessible web apps using React.js,
+                             TypeScript, and modern JavaScript frameworks. I love creating clean, interactive UIs and optimizing for performance.`}
                         </p>
                     </div>
                 </li>
@@ -32,12 +32,11 @@ const About = () => {
                         alt="server Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Experience and Strengths:</h3>
+                        <h3>Real Projects & Results</h3>
                         <p>
-                            Proficient in coding tests, I specialize in crafting 
-                            visually captivating websites with clean code and 
-                            user-friendly interfaces. Additionally, I possess 
-                            knowledge of Node.js and PHP to support my work.
+                            From recipe finder apps to full-stack movie rental platforms, I’ve developed various scalable, 
+                            mobile-friendly applications. I leverage tools like Zustand, Redux, and React Query for 
+                            effective state and data management.
                         </p>
                     </div>
                 </li>
@@ -47,10 +46,10 @@ const About = () => {
                         alt="UI Icon" 
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Commitment and Collaboration:</h3>
+                        <h3>Commitment & Collaboration</h3>
                         <p>
-                            Adept at staying current with industry trends 
-                            and collaborating effectively in teams. 
+                            Experienced in team-based development and mentoring junior devs. I actively keep up 
+                            with trends and integrate new practices to build better products and learning experiences.
                         </p>
                     </div>
                 </li>

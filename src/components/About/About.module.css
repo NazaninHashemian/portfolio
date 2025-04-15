@@ -28,7 +28,8 @@
 
 .aboutImage {
     width: 30%;
-
+    max-width: 300px; 
+    height: auto;  
 }
 
 .aboutItems {
@@ -57,6 +58,7 @@
 
 .aboutItem:hover {
     background-size: 100% 100%;
+    background: rgba(68, 97, 201, 0.7);
 }
 
 .aboutItem h3 {
@@ -75,6 +77,11 @@
     padding:5px 15px;
     background: rgba(68, 97, 201, 0.5);
 }
+
+.aboutItem img {
+    width: 50px;
+    margin-right: 20px; 
+} 
 
 @media screen and (max-width: 830px){
     .container {
@@ -113,4 +120,9 @@
     .aboutItem p {
         font-size: 17px;
     }
+    /* .aboutLink a {
+        font-size: 24px;  
+    } */
 }
+
+
