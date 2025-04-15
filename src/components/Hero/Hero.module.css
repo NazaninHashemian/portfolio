@@ -24,11 +24,11 @@
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, #00c6ff, #0072ff); /* blue gradient */
-    -webkit-text-fill-color: transparent ;
-    -webkit-background-clip: text ;
-    background-clip: text;
-}
+    background: linear-gradient(90deg, red, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
 
 .description {
     font-size: 23px;
