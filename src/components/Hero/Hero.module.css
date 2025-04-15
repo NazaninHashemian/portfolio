@@ -20,8 +20,7 @@
 }
 
 .title {
-    /* font-size: 72px; */
-    font-size: clamp(2rem, 6vw, 72px);
+    font-size: 72px;
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
@@ -33,8 +32,6 @@
     -webkit-text-fill-color: transparent ;
     -webkit-background-clip: text ;
     background-clip: text;
-    display: inline-block;
-    color: white;
 }
 
 .description {
