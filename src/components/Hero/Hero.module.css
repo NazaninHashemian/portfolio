@@ -20,7 +20,8 @@
 }
 
 .title {
-    font-size: 72px;
+    /* font-size: 72px; */
+    font-size: clamp(2rem, 6vw, 72px);
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
@@ -35,7 +36,7 @@
 }
 
 .description {
-    font-size: 30px;
+    font-size: 23px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
 }
@@ -116,10 +117,10 @@
         font-weight: 800;
     }
     .description {
-        font-size: 25px;
+        font-size: 19px;
     }
     .contactBtn {
-        font-size: 28px;
+        font-size: 23px;
         font-weight:500;
     }
 }
@@ -131,9 +132,9 @@
         font-size: 38px;
     }
     .description {
-        font-size: 22px;
+        font-size: 17px;
     }
     .contactBtn {
-        font-size: 25px;
+        font-size: 20px;
     }
 }

@@ -4,8 +4,9 @@ import styles from './Contact.module.css';
 const Contact = () => {
   return (
     <section id="contact" className={styles.container}>
-      <p className={styles.message}>Feel free to reach out to me!</p>
+      
       <h2 className={styles.title}>Contact</h2>
+      {/* <h3 className={styles.message}>Feel free to reach out to me!</h3> */}
       <div className={styles.content}>
         <ul className={styles.links}>
           <li className={styles.linkItem}>

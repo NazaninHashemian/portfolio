@@ -6,26 +6,22 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>{`Hi, I'm Nazanin`}</h1>
-            {/* <p className={styles.description}>
-                I'm a frontend developer with 5 years of experience 
-                using React, with additional experience in Node.js 
-                and PHP. Feel free to reach out if you'd like to 
-                learn more.
-            </p> */}
             <p className={styles.description}>
-                {`I'm an experienced freelance web developer specializing in React. 
-                With a talent for clean code and intuitive interfaces, I thrive 
-                in collaborative team environments. Let's discuss how I can 
-                contribute to your team.` }
+            {`Passionate and driven Front-End Developer with expertise in React.js and modern JavaScript frameworks. Experienced in
+            building responsive, user-friendly web applications, mentoring students, and optimizing UI performance. Adept at debugging and
+            collaborating within cross-functional teams. Actively contributing to open-source projects and seeking a full-time development
+            role to create impactful solutions.` }
             </p>
-            <a href="mailto:na.hashemian@gmail.com" className={styles.contactBtn}>
+            <a href="mailto:na.hashemian@gmail.com" className={styles.contactBtn} rel="noopener noreferrer">
                 Contact Me
             </a>
+            
         </div>
         <img 
             src={getImageurl('hero/heroImage.png')} 
             alt="Hero image of me" 
             className={styles.heroImg} 
+            loading="lazy"
         />
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />    
