@@ -34,6 +34,7 @@
     -webkit-background-clip: text ;
     background-clip: text;
     display: inline-block;
+    color: white;
 }
 
 .description {
