@@ -23,17 +23,17 @@
 }
 
 .skills {
-    width: 30%;
+    width: 18%;
     display: flex;
     flex-wrap: wrap;
-    gap: 32px;
+    gap:0 20px;
 }
 
 .skill {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 11px;
+    gap: 5px;
 } 
 
 .skillImageContainer {
@@ -41,24 +41,24 @@
     border-radius: 100%; 
     display: flex;
     justify-content: center;
-    width: 120px;
-    height: 120px;
+    width: 83px;
+    height: 82px;
 }
 
 .skillImageContainer img {
-    width: 75px;
-    height:70px;
-    margin-top:25px;
+    width: 68px;
+    height:62px;
+    margin-top:15px;
 }
 
 .skill p {
-    font-size: 25px;
+    font-size: 15px;
     font-family: var(--font-roboto);
     font-weight: 500;
 }
 
 .history {
-    width: 55%;
+    width: 65%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -89,114 +89,30 @@
 } 
 
 .historyItemDetails p{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 300;
 } 
 
 .historyItemDetails ul{
     margin-top: 6px;
     list-style-position: inside;
-    font-size: 23px;
+    font-size: 19px;
     list-style-type: disc;
     margin-left: 17px;
 } 
 
-@media screen and (max-width: 1300px) {
-
+@media screen and (max-width: 1291px) {
     .skillImageContainer {
-        width: 100px;
-        height: 100px;
+        width: 64px;
+        height: 64px;
     }
 
     .skillImageContainer img {
-        width: 63px;
-        height:58px;
-        margin-top:20px;
+        width: 55px;
+        height:48px;
+        margin-top:11px;
     }
 
-    .skill p {
-        font-size: 16px;
-    } 
-    .historyItemDetails p{
-        font-size: 17px;
-    }  
-    
-    .historyItemDetails ul{
-        list-style-position: outside;
-        font-size: 17px;
-        list-style-type: disc;
-        margin-left: 5px;
-    } 
-}
-
-@media screen and (max-width: 1200px) {
-    /* .container {
-        margin-left: 5%;
-        margin-right: 5%;
-    } */
-
-    .skillImageContainer {
-        width: 73px;
-        height: 73px;
-    }
-
-    .skillImageContainer img {
-        width: 53px;
-        height:46px;
-        margin-top:14px;
-    }
-    
-    .skills {
-        width: 25%;
-        gap: 10px;
-    }
-     .skill p {
-        font-size: 15px;
-    }
-    
-    .historyItemDetails h3{
-        font-size: 24px;
-        font-weight: 450;
-    } 
-   
-    .history {
-        width: 70%;
-        /* gap: 10px; */
-    }
-
-
-    .historyItemDetails p{
-        font-size: 16px;
-    }  
-    
-    .historyItemDetails ul{
-        list-style-position: outside;
-        font-size: 16px;
-        list-style-type: disc;
-        margin-left: 5px;
-    } 
-    .historyItem img{
-        width: 38px;
-    }
-}
-
-@media screen and (max-width: 1000px) {
-
-    .skillImageContainer {
-        width: 68px;
-        height: 68px;
-    }
-
-    .skillImageContainer img {
-        width: 44px;
-        height:40px;
-        margin-top:14px;
-    }
-    
-    .skills {
-        width: 24%;
-        gap: 6px;
-    }
      .skill p {
         font-size: 12px;
         /* display: none; */
@@ -206,12 +122,6 @@
         font-size: 24px;
         font-weight: 400;
     } 
-   
-    .history {
-        width: 72%;
-        gap: 5px;
-    }
-
 
     .historyItemDetails p{
         font-size: 15px;
@@ -227,17 +137,23 @@
         width: 36px;
     }
 }
+
 @media screen and (max-width: 830px) {
     .content {
         flex-direction: column;
         align-items: center;
-        gap: 34px;
+        /* gap: 34px; */
     }
 
     .skills {
         width: 100%;
         flex-direction: row;
         justify-content: center;
+        margin-bottom: 50px;
+        gap: 10px;
+    }
+    .skills p {
+        display: none;
     }
     
     .history {
@@ -246,9 +162,6 @@
 
     }
 }
-
-
-
 
 @media screen and (max-width: 580px) {
     .container {
@@ -261,7 +174,7 @@
     } 
     
     .historyItemDetails p{
-        font-size: 17px;
+        font-size: 14px;
         font-weight: 200;
     } 
     
@@ -271,9 +184,6 @@
         list-style-type: disc;
         margin-left: 5px;
     } 
-    .historyItem img{
-        width: 40px;
-    }
 }
 
 @media screen and (max-width: 450px) {
@@ -282,16 +192,12 @@
         margin-right: 1%;
     }
     .historyItemDetails h3{
-        font-size: 22px;
+        font-size: 20px;
     } 
     
-    .historyItemDetails p{
-        font-size: 15px;
-        font-weight: 200;
-    } 
     
     .historyItemDetails ul{
-        font-size: 17px;
+        font-size: 16px;
         list-style-type: none;
         margin-left: 0;
     } 
