@@ -1,5 +1,5 @@
 .cardContainer {
-    height: 530px;
+    height: 540px;
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -17,21 +17,21 @@
 .scrollableContent { 
     overflow-y: auto;
     flex-grow: 1;
-    margin-top: 6px;
+    /* margin-top: 6px; */
 }
 
-.scrollableContent::-webkit-scrollbar { /* ✨ updated: optional scrollbar style */
-    width: 6px;
+.scrollableContent::-webkit-scrollbar {
+    width: 7px;
   }
   
-  .scrollableContent::-webkit-scrollbar-thumb { /* ✨ updated */
+  .scrollableContent::-webkit-scrollbar-thumb { 
     background-color: rgba(255, 255, 255, 0.3);
     border-radius: 10px;
   }
 
 .image {
     max-height: 150px; /* Set a max height for the image */   
-    margin: 8px auto 25px auto; /* this centers it horizontally */
+    margin: 8px auto 25px auto; /* centers image horizontally */
     max-height: 150px;
     object-fit: cover;
     display: block; /* ensures margin auto works */
