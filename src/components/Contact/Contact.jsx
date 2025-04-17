@@ -4,9 +4,8 @@ import styles from './Contact.module.css';
 const Contact = () => {
   return (
     <section id="contact" className={styles.container}>
-      
       <h2 className={styles.title}>Contact</h2>
-      {/* <h3 className={styles.message}>Feel free to reach out to me!</h3> */}
+
       <div className={styles.content}>
         <ul className={styles.links}>
           <li className={styles.linkItem}>
@@ -36,7 +35,6 @@ const Contact = () => {
         </ul>
       </div>
 
-      {/* Resume button in its own container */}
       <div className={styles.resumeContainer}>
         <a
           href="/NazaninHashemian_CV.pdf"
@@ -45,7 +43,8 @@ const Contact = () => {
           rel="noopener noreferrer"
           className={styles.resumeButton}
         >
-          Download My Resume
+          <span className={styles.fullText}>Download My Resume</span>
+          <span className={styles.shortText}>Download Resume</span>
         </a>
       </div>
     </section>
