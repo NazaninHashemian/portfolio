@@ -17,16 +17,15 @@
 .scrollableContent { 
     overflow-y: auto;
     flex-grow: 1;
-    /* margin-top: 6px; */
 }
 
 .scrollableContent::-webkit-scrollbar {
-    width: 7px;
+    width: 6px;
   }
   
   .scrollableContent::-webkit-scrollbar-thumb { 
     background-color: rgba(255, 255, 255, 0.3);
-    border-radius: 10px;
+    /* border-radius: 10px; */
   }
 
 .image {
