@@ -9,7 +9,6 @@ const ProjectCard = ({project: {imageSrc, title, description, skills, source}
     <div className={styles.cardContainer}>
       <a href={source} target="_blank" rel="noopener noreferrer">
         <img 
-            // src={getImageurl('projects/project.png')} 
             src={getImageurl(imageSrc)} 
             alt={`Image of ${title}`} 
             className={styles.image}
