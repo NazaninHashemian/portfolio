@@ -2,6 +2,7 @@ import { getImageurl } from '../../utils';
 import styles from './Hero.module.css';
 
 const Hero = () => {
+  
   return (
     <section className={styles.container}>
         <div className={styles.content}>
@@ -12,10 +13,10 @@ const Hero = () => {
             collaborating within cross-functional teams. Actively contributing to open-source projects and seeking a full-time development
             role to create impactful solutions.` }
             </p>
-            <a href="mailto:na.hashemian@gmail.com" className={styles.contactBtn} rel="noopener noreferrer">
+            {/* <a href="mailto:na.hashemian@gmail.com" className={styles.contactBtn} rel="noopener noreferrer">
                 Contact Me
-            </a>
-            
+            </a> */}
+            <a href="#contact" className={styles.contactBtn} rel="noopener noreferrer">Contact Me</a>
         </div>
         <img 
             src={getImageurl('hero/heroImage.png')} 
