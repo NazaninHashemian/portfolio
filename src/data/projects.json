@@ -2,19 +2,21 @@
   {
     "title": "Recipe Finder App",
     "imageSrc": "projects/Recipe1.png",
-    "description": "Built a recipe search app using TheMealDB API. Enabled searches by name, ingredient, or cuisine. Implemented modals, React Router, and Dark/Light mode for enhanced UX. Boosted development speed by 30% using a reusable SearchBar component.",
-    "skills": ["React", "JavaScript", "React Router", "Hooks", "Responsive Design"],
-    "demo": "",
-    "source": "https://nazaninhashemian.github.io/RecipeFinderApp"
+    "description": "A responsive web app for searching recipes using TheMealDB API. Users can search by dish name, view detailed recipe info in a modal (opened on click for each recipe), and enjoy a polished, mobile-friendly experience. Features include Dark/Light Mode, user-friendly error handling, and a reusable SearchBar component that boosted development efficiency by 30%.",
+    "skills": ["React", "TypeScript", "JavaScript", "React Router", "Hooks", "Responsive Design", "TheMealDB API", "Modals", "Reusable Components"],
+    "demo": "https://nazaninhashemian.github.io/RecipeFinderApp",
+    "source": "https://github.com/NazaninHashemian/RecipeFinderApp"
   },
   {
     "title": "Weather App",
     "imageSrc": "projects/weatherApp.png",
-    "description": "Developed a real-time weather app with location auto-detection and dynamic UI updates. Used Axios for API calls and optimized performance by managing state to minimize redundant fetches.",
-    "skills": ["React", "Axios", "JavaScript", "Responsive Design", "Geolocation API"],
-    "demo": "",
-    "source": "https://nazaninhashemian.github.io/weather-app"
+    "description": "A real-time weather app that provides weather information based on city search. Utilized React for a user-friendly interface and Axios to fetch data from the OpenWeatherMap API. The app remembers previous searches using local storage and displays weather details like temperature, humidity, and conditions. Optimized performance by managing state and minimizing redundant API calls, with a mobile-friendly design.",
+    "skills": ["React", "Axios", "JavaScript", "Local Storage", "OpenWeatherMap API", "Responsive Design", "State Management"],
+    "demo": "https://nazaninhashemian.github.io/weather-app",
+    "source": "https://github.com/NazaninHashemian/weather-app"
   },
+
+  
   {
     "title": "Video Game Explorer",
     "imageSrc": "projects/video-game.png",
