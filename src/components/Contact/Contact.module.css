@@ -11,13 +11,6 @@
   margin-right: 10%;
 }
 
-/* .message {
-  font-size: 22px;
-  color: var(--color-text);
-  text-align: center;
-  margin-bottom: 20px;
-} */
-
 .title {
   color: var(--color-text);
   font-size: 35px;
@@ -37,8 +30,9 @@
 
 .links {
   display: flex;
-  flex-direction: column;
+  flex-direction: row; /* row by default (large screens) */
   gap: 25px;
+  flex-wrap: wrap;
   flex: 1;
 }
 
@@ -86,8 +80,8 @@
   color: var(--color-text);
   border-radius: 100px;
   font-size: 30px;
-  font-weight:600;
-  padding: 17px 26px;
+  font-weight: 600;
+  padding: 10px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
@@ -95,20 +89,12 @@
   background-color: #2f4eb2;
 }
 
-/* Medium screens and down */
-@media screen and (max-width: 940px) {
-  .container {
-    background-color: transparent;
-  }
-
-}
-
-
+/* Small screens - Stack links in column */
 @media screen and (max-width: 830px) {
   .container {
-    background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    background-color: transparent;
   }
 
   .content {
@@ -117,27 +103,21 @@
     text-align: center;
   }
 
-  /* .message, */
   .links {
-    max-width: 100%;
-    text-align: center;
+    flex-direction: column;
+    align-items: center;
   }
 
   .linkItem {
-    justify-content: center;
     flex-direction: column;
+    justify-content: center;
   }
 
   .linkItem a {
     font-size: 18px;
   }
-
-  /* .message {
-    font-size: 20px;
-  } */
 }
 
-/* Small screens */
 @media screen and (max-width: 500px) {
   .container {
     margin-left: 5%;
@@ -147,55 +127,5 @@
   .resumeButton {
     font-size: 16px;
     padding: 10px 18px;
-  }
-}
-
-/* Large screens: display links in a row */
-@media screen and (min-width: 1200px) {
-  .container {
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  .content {
-    flex-direction: row;
-    justify-content: space-between;
-  }
-
-  .links {
-    display: flex;
-    flex-direction: row;
-    gap: 40px;
-    flex: 1;
-  }
-
-  .linkItem {
-    flex-direction: row;
-    justify-content: flex-start;
-  }
-
-  .linkItem a {
-    font-size: 20px;
-  }
-}
-
-/* For screens between 756px and 1155px */
-@media screen and (min-width: 756px) and (max-width: 1155px) {
-  .links {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 25px;
-  }
-
-  .linkItem {
-    flex-direction: row;
-  }
-}
-
-/* Resume button centered on screens ≤1389px */
-@media screen and (max-width: 1389px) {
-  .resumeContainer {
-    justify-content: center;
-    margin-top: 30px;
   }
 }
