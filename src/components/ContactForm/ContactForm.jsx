@@ -1,3 +1,5 @@
+import styles from './ContactForm.module.css';
+
 import { useState } from "react"
 
 const ContactForm = () => {
@@ -19,7 +21,7 @@ const ContactForm = () => {
     }
 
     return (
-        <form onSubmit={handleSubmit} action="">
+        <form onSubmit={handleSubmit} className={styles.form} action="">
             <input 
                 type="text" 
                 name="name" 

@@ -1,4 +1,5 @@
 import { getImageurl } from '../../utils';
+// import ContactForm from '../ContactForm/ContactForm';
 import styles from './Contact.module.css';
 
 const Contact = () => {
@@ -47,6 +48,8 @@ const Contact = () => {
           <span className={styles.shortText}>Download Resume</span>
         </a>
       </div>
+
+      {/* <ContactForm /> */}
     </section>
   );
 };
