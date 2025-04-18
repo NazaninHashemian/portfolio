@@ -1,5 +1,5 @@
 import { getImageurl } from '../../utils';
-// import ContactForm from '../ContactForm/ContactForm';
+import ContactForm from '../ContactForm/ContactForm';
 import styles from './Contact.module.css';
 
 const Contact = () => {
@@ -51,7 +51,7 @@ const Contact = () => {
         </div>
 
         <div className={styles.rightColumn}>
-        {/* <ContactForm /> */}
+        <ContactForm />
         </div>
       </div>
     </section>

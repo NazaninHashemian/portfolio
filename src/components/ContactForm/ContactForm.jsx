@@ -13,7 +13,16 @@ const ContactForm = () => {
         e.preventDefault();
         console.log('Submitted:', formData);
         alert('Thanks for reaching out!');
-    }
+        
+        // Clear the form
+        setFormData({
+            name: '',
+            email: '',
+            message: '',
+        });
+    };
+    
+    
 
     const handleChange = (e) => {
         const {name, value} = e.target;
