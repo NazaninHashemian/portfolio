@@ -20,8 +20,8 @@
     "imageSrc": "projects/video-game.png",
     "description": "Created a game discovery platform with filtering by genre and platform. Used Zustand for state management and optimized rendering by minimizing API calls. Featured video previews, ratings, and descriptions.",
     "skills": ["React", "TypeScript", "Axios", "Zustand", "ChakraUI", "Vercel"],
-    "demo": "",
-    "source": "https://game-bhaax6w5m-nazaninhashemian.vercel.app"
+    "demo": "https://github.com/NazaninHashemian/game-hub",
+    "source": "https://game-hub-ochre-two.vercel.app"
   },
   {
     "title": "Expenses Tracker",
@@ -37,7 +37,7 @@
     "description": "Developed a movie rental platform with filtering by genre and rating. Used React hooks for efficient state management and Bootstrap for mobile-friendly layouts.",
     "skills": ["React", "JavaScript", "Hooks", "Bootstrap"],
     "demo": "https://github.com/NazaninHashemian/vidly",
-    "source": "https://nazaninhashemian.github.io/vidly/"
+    "source": "https://nazaninhashemian.github.io/vidly"
   },
   {
     "title": "SkyHosting Website",
