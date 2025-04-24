@@ -3,7 +3,7 @@ import styles from './ProjectCard.module.css';
 import { getImageurl } from './../../utils';
 
 
-const ProjectCard = ({project: {imageSrc, title, description, skills, source}
+const ProjectCard = ({project: {imageSrc, title, description, skills, source, demo}
 }) => {
   return (
     <div className={styles.cardContainer}>
@@ -29,7 +29,7 @@ const ProjectCard = ({project: {imageSrc, title, description, skills, source}
         </ul>
       </div>
       <div className={styles.links}>
-          {/* <a href={demo} className={styles.link}>Demo</a> */}
+          <a href={demo} className={styles.link}>Demo</a>
           <a href={source} className={styles.link}>Source</a>
       </div>
     </div>

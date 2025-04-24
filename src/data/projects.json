@@ -4,15 +4,15 @@
     "imageSrc": "projects/Recipe1.png",
     "description": "A responsive web app for searching recipes using TheMealDB API. Users can search by dish name, view detailed recipe info in a modal (opened on click for each recipe), and enjoy a polished, mobile-friendly experience. Features include Dark/Light Mode, user-friendly error handling, and a reusable SearchBar component that boosted development efficiency by 30%.",
     "skills": ["React", "TypeScript", "React Router", "JavaScript", "Hooks", "Responsive Design", "TheMealDB API", "Modals", "Reusable Components"],
-    "demo": "https://nazaninhashemian.github.io/RecipeFinderApp",
+    "demo": "https://github.com/NazaninHashemian/RecipeFinderApp",
     "source": "https://nazaninhashemian.github.io/RecipeFinderApp"
   },
   {
-    "title": "Weather App",
+    "title": "Weather Forcast",
     "imageSrc": "projects/weatherApp.png",
     "description": "A real-time weather app that provides weather information based on city search. Utilized React for a user-friendly interface and Axios to fetch data from the OpenWeatherMap API. The app remembers previous searches using local storage and displays weather details like temperature, humidity, and conditions. Optimized performance by managing state and minimizing redundant API calls, with a mobile-friendly design.",
     "skills": ["React", "JavaScript", "Axios", "State Management", "Local Storage", "OpenWeatherMap API", "Responsive Design"],
-    "demo": "https://nazaninhashemian.github.io/weather-app",
+    "demo": "https://github.com/NazaninHashemian/weather-app",
     "source": "https://nazaninhashemian.github.io/weather-app"
   },
   {
@@ -28,7 +28,7 @@
     "imageSrc": "projects/expenses-list.png",
     "description": "Built an expense tracker with features for adding, editing, and deleting entries. Integrated Zod for robust validation and used React with Bootstrap for responsive UI and better UX.",
     "skills": ["React", "JavaScript", "Bootstrap", "Zod"],
-    "demo": "https://expense-tracker-cssia8db8-nazaninhashemian.vercel.app",
+    "demo": "https://github.com/NazaninHashemian/expense-tracker",
     "source": "https://expense-tracker-smoky-rho.vercel.app"
   },
   {
@@ -36,7 +36,7 @@
     "imageSrc": "projects/vidly.jpg",
     "description": "Developed a movie rental platform with filtering by genre and rating. Used React hooks for efficient state management and Bootstrap for mobile-friendly layouts.",
     "skills": ["React", "JavaScript", "Hooks", "Bootstrap"],
-    "demo": "https://nazaninhashemian.github.io/vidly/",
+    "demo": "https://github.com/NazaninHashemian/vidly",
     "source": "https://nazaninhashemian.github.io/vidly/"
   },
   {
@@ -44,7 +44,7 @@
     "imageSrc": "projects/sky.jpg",
     "description": "Designed a mobile-first, responsive website for a hosting company using OOCSS, SCSS, and AOS animations. Translated a Photoshop design into a sleek, professional online presence.",
     "skills": ["HTML", "CSS", "SCSS", "OOCSS", "AOS Library", "Photoshop"],
-    "demo": "https://sky-host.netlify.app",
+    "demo": "https://github.com/NazaninHashemian/SkyHost",
     "source": "https://sky-host.netlify.app"
   }
 ]
