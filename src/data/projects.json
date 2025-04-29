@@ -26,12 +26,11 @@
   {
     "title": "Reminder App",
     "imageSrc": "projects/reminder.png",
-    "description": "A reminder management app that lets users fetch, add, and remove reminders using a mock REST API (JSONPlaceholder). Built with TypeScript and React hooks, it demonstrates component-based architecture and asynchronous data handling with Axios. The project features a clean, responsive UI with a controlled form component and reusable list-rendering logic. It simulates full CRUD interaction and emphasizes practical state management patterns.",
-    "skills": ["React", "TypeScript", "Axios", "useState", "useEffect", "Component Design", "CSS", "REST API"],
+    "description": "A reminder management app that lets users fetch, add, and remove reminders using the CrudCrud REST API. Built with TypeScript and React hooks, it showcases real-world asynchronous data handling, persistent storage with Axios, and clean component-based architecture. The project features a responsive UI, a controlled form component, and reusable list-rendering logic. It supports dynamic state updates and simulates real CRUD interactions with a temporary backend.",
+    "skills": ["React", "TypeScript", "Axios", "useState", "useEffect", "Component Design", "CSS", "REST API", "CrudCrud"],
     "demo": "https://github.com/NazaninHashemian/reminders-app",
     "source": "https://nazaninhashemian.github.io/reminders-app"
-  },
-  
+  }, 
   {
     "title": "Expenses Tracker",
     "imageSrc": "projects/expenses-list.png",
