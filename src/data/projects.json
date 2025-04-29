@@ -24,6 +24,15 @@
     "source": "https://game-hub-ochre-two.vercel.app"
   },
   {
+    "title": "Reminder App",
+    "imageSrc": "projects/reminder.png",
+    "description": "A reminder management app that lets users fetch, add, and remove reminders using a mock REST API (JSONPlaceholder). Built with TypeScript and React hooks, it demonstrates component-based architecture and asynchronous data handling with Axios. The project features a clean, responsive UI with a controlled form component and reusable list-rendering logic. It simulates full CRUD interaction and emphasizes practical state management patterns.",
+    "skills": ["React", "TypeScript", "Axios", "useState", "useEffect", "Component Design", "CSS", "REST API"],
+    "demo": "https://github.com/NazaninHashemian/reminders-app",
+    "source": "https://nazaninhashemian.github.io/reminders-app"
+  },
+  
+  {
     "title": "Expenses Tracker",
     "imageSrc": "projects/expenses-list.png",
     "description": "Built an expense tracker with features for adding, editing, and deleting entries. Integrated Zod for robust validation and used React with Bootstrap for responsive UI and better UX.",
