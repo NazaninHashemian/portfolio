@@ -11,7 +11,7 @@
     "title": "Weather Forcast",
     "imageSrc": "projects/weatherApp.png",
     "description": "A real-time weather application that provides detailed weather information based on city search. Built with React for a dynamic and user-friendly interface and uses Axios to fetch data from the OpenWeatherMap API. The app remembers previously searched cities using local storage and displays comprehensive weather details including temperature, humidity, wind speed, and conditions. It features a 24-hour hourly forecast with scrollable cards for quick weather insights throughout the day. The app is mobile-friendly, and performance is optimized by efficient state management and minimizing redundant API calls.",
-    "skills": ["React", "JavaScript", "Axios", "State Management", "Local Storage", "OpenWeatherMap API", "Responsive Design"],
+    "skills": ["React", "TypeScript", "Axios", "State Management", "Local Storage", "OpenWeatherMap API", "Responsive Design"],
     "demo": "https://github.com/NazaninHashemian/weather-app",
     "source": "https://nazaninhashemian.github.io/weather-app"
   },
