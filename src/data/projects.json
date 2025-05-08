@@ -26,8 +26,8 @@
   {
     "title": "BuiltReminder",
     "imageSrc": "projects/reminder.png",
-    "description": "BuiltReminder is a reminder management app that integrates with the CrudCrud REST API to fetch, add, and remove reminders. Developed with TypeScript and React, this app demonstrates real-world asynchronous data handling, persistent storage with Axios, and clean component-based architecture. It features a responsive UI, a controlled form component, reusable list-rendering logic, and dynamic state updates. The app simulates real CRUD interactions, showcasing both frontend and backend development skills with a temporary backend.",
-    "skills": ["React", "TypeScript", "Axios", "useState", "useEffect", "Component Design", "CSS", "REST API", "CrudCrud"],
+    "description": "BuiltReminder is a reminder management app that integrates with Supabase for backend data storage and user authentication. Developed with TypeScript and React, this app showcases real-time asynchronous data handling with Supabase, a responsive UI, and clean component-based architecture. It features a controlled form component, reusable list-rendering logic, dynamic state updates, and persistent storage. The app demonstrates CRUD operations with Supabase's API, showcasing both frontend and backend integration, including authentication and storage management.",
+    "skills": ["React", "TypeScript", "Axios", "Supabase", "useState", "useEffect", "Component Design", "CSS", "REST API", "Authentication", "CRUD Operations"],
     "demo": "https://github.com/NazaninHashemian/reminders-app",
     "source": "https://nazaninhashemian.github.io/reminders-app"
   },
