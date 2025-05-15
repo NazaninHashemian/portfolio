@@ -10,11 +10,11 @@
   {
     "title": "Weather Forecast",
     "imageSrc": "projects/weatherApp.png",
-    "description": "A professional-grade real-time weather application built with React and TypeScript, optimized for usability and performance. It retrieves live weather data from the OpenWeatherMap API using Axios and presents detailed information including temperature, humidity, wind speed, and a time-sensitive forecast covering today, tomorrow, and the day after tomorrow (up to 72 hours ahead depending on the time of day). The app detects the user's current location on initial load and dynamically updates the background image based on weather conditions (e.g., sunny, rainy) and time of day (day/night). It also saves a history of searched cities using local storage for a seamless user experience. Key features include a modular architecture with reusable utility functions, strong state management, accessibility enhancements (such as ARIA labels for screen reader support), and full mobile responsiveness. The codebase emphasizes clean, maintainable design patterns and efficient API handling, showcasing best practices in modern front-end development.",
-    "skills": ["React", "TypeScript", "Axios", "Geolocation", "Dynamic UI", "State Management", "Accessibility", "Local Storage", "Responsive Design", "API Integration", "Code Modularity", "Front-End Architecture"],
+    "description": "A professional-grade real-time weather application built with React and TypeScript, optimized for usability and performance. It retrieves live weather data from the OpenWeatherMap API using Axios and presents detailed information including temperature, humidity, wind speed, and a time-sensitive forecast covering today, tomorrow, and the day after tomorrow (up to 72 hours ahead depending on the time of day). The app detects the user's current location on initial load and dynamically updates the background image based on weather conditions (e.g., sunny, rainy) and time of day (day/night). It also integrates an interactive map showing the searched city location. The app saves a history of searched cities using local storage for a seamless user experience. Key features include a modular architecture with reusable utility functions, strong state management, accessibility enhancements (such as ARIA labels for screen reader support), and full mobile responsiveness. The codebase emphasizes clean, maintainable design patterns and efficient API handling, showcasing best practices in modern front-end development.",
+    "skills": ["React", "TypeScript", "Axios", "Geolocation", "Dynamic UI", "Leaflet Maps", "State Management", "Accessibility", "Local Storage", "Responsive Design", "API Integration", "Code Modularity", "Front-End Architecture"],
     "demo": "https://nazaninhashemian.github.io/weather-app",
     "source": "https://github.com/NazaninHashemian/weather-app"
-  },
+  }, 
   {
     "title": "Video Game Explorer",
     "imageSrc": "projects/video-game.png",
