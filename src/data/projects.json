@@ -2,11 +2,11 @@
   {
     "title": "Recipe Finder App",
     "imageSrc": "projects/Recipe1.png",
-    "description": "A responsive web app for searching recipes using TheMealDB API. Users can search by dish name, view detailed recipe info in a modal (opened on click for each recipe), and enjoy a polished, mobile-friendly experience. Features include Dark/Light Mode, user-friendly error handling, and a reusable SearchBar component that boosted development efficiency by 30%.",
-    "skills": ["React", "TypeScript", "React Router", "JavaScript", "Hooks", "Responsive Design", "TheMealDB API", "Modals", "Reusable Components"],
+    "description": "A responsive web app for searching recipes using TheMealDB API. Users can search by dish name, view detailed recipe info in a modal, and enjoy a polished, mobile-friendly experience. Features include Dark/Light Mode, user-friendly error handling, a reusable SearchBar component that boosted development efficiency by 30%, a Like button for each recipe card, and a dedicated Favorites page to view liked items.",
+    "skills": ["React", "TypeScript", "React Router", "JavaScript", "Hooks", "Responsive Design", "TheMealDB API", "Modals", "Reusable Components", "Like/Favorite Feature"],
     "demo": "https://github.com/NazaninHashemian/RecipeFinderApp",
     "source": "https://nazaninhashemian.github.io/RecipeFinderApp"
-  },
+  }, 
   {
     "title": "Weather Forecast",
     "imageSrc": "projects/weatherApp.png",
