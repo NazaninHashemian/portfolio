@@ -71,7 +71,22 @@
     "demo": "https://github.com/NazaninHashemian/SkyHost",
     "source": "https://sky-host.netlify.app"
   },
-
+  {
+    "title": "Tailwind Tasklist",
+    "imageSrc": "projects/tasklist.png",
+    "description": "Built a simple task list app using React and TailwindCSS, demonstrating clean UI design and state management with hooks. Showcased skills in responsive design and utility-first CSS framework.",
+    "skills": ["React", "TailwindCSS", "Hooks", "Responsive Design", "Utility-First CSS"],
+    "demo": "https://github.com/NazaninHashemian/react-tailwind-tasklist",
+    "source": "https://nazaninhashemian.github.io/tailwind-tasklist"
+  },
+  {
+    "title": "Test Demo React App",
+    "imageSrc": "projects/test-demo.png",
+    "description": "Created a React app with Jest and React Testing Library tests, including a Counter component with full unit test coverage. Demonstrates solid understanding of unit testing in React and test-driven development principles.",
+    "skills": ["React", "Jest", "React Testing Library", "Unit Testing", "Test-Driven Development"],
+    "demo": "https://github.com/NazaninHashemian/test-demo-react-app",
+    "source": "https://nazaninhashemian.github.io/test-demo-react-app"
+  },
   {
     "title": "Counter App",
     "imageSrc": "projects/Counter.png",
