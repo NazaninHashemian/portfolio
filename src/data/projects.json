@@ -84,8 +84,8 @@
     "imageSrc": "projects/test-demo.png",
     "description": "Created a React app with Jest and React Testing Library tests, including a Counter component with full unit test coverage. Demonstrates solid understanding of unit testing in React and test-driven development principles.",
     "skills": ["React", "Jest", "React Testing Library", "Unit Testing", "Test-Driven Development"],
-    "demo": "https://github.com/NazaninHashemian/test-demo-react-app",
-    "source": "https://nazaninhashemian.github.io/test-demo-react-app"
+    "demo": "https://github.com/NazaninHashemian/test-demo",
+    "source": "ttps://github.com/NazaninHashemian/test-demo"
   },
   {
     "title": "Counter App",
