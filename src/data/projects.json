@@ -77,7 +77,7 @@
     "description": "Built a simple task list app using React and TailwindCSS, demonstrating clean UI design and state management with hooks. Showcased skills in responsive design and utility-first CSS framework.",
     "skills": ["React", "TailwindCSS", "Hooks", "Responsive Design", "Utility-First CSS"],
     "demo": "https://github.com/NazaninHashemian/react-tailwind-tasklist",
-    "source": "https://nazaninhashemian.github.io/tailwind-tasklist"
+    "source": "https://nazaninhashemian.github.io/react-tailwind-tasklist"
   },
   {
     "title": "Test Demo React App",
