@@ -33,7 +33,7 @@
   },
   {
     "title": "Online Flower Shop - Headless WordPress & React",
-    "imageSrc": "projects/wp-headless-client.png",
+    "imageSrc": "projects/flowerShop.png",
     "description": "A React.js frontend for an online flower shop that uses WordPress.com as a headless CMS via the WordPress REST API. Features dynamic fetching and filtering of posts and categories, enabling a smooth, client-side experience deployed on GitHub Pages.",
     "skills": ["React", "JavaScript", "WordPress REST API", "GitHub Pages", "Fetch API", "Headless CMS"],
     "demo": "https://nazaninhashemian.github.io/wp-headless-client",
